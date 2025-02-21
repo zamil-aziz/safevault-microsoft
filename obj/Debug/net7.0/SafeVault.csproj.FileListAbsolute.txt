@@ -1,0 +1,6 @@
+D:\Websites\SafeVault\obj\Debug\net7.0\SafeVault.csproj.AssemblyReference.cache
+D:\Websites\SafeVault\obj\Debug\net7.0\SafeVault.GeneratedMSBuildEditorConfig.editorconfig
+D:\Websites\SafeVault\obj\Debug\net7.0\SafeVault.AssemblyInfoInputs.cache
+D:\Websites\SafeVault\obj\Debug\net7.0\SafeVault.AssemblyInfo.cs
+D:\Websites\SafeVault\obj\Debug\net7.0\SafeVault.csproj.CoreCompileInputs.cache
+D:\Websites\SafeVault\obj\Debug\net7.0\SafeVault.MvcApplicationPartsAssemblyInfo.cache
